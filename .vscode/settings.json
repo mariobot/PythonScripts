@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\python\\python.exe",
+    "window.autoDetectColorScheme": true,
+    "window.closeWhenEmpty": true
+}
