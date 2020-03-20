@@ -1,6 +1,6 @@
-print("Hola paciente te vamos a tomar los datos personales para tu ingreso.")
+print("Hola paciente te vamos a tomar los datos personales para tu ingreso.") 
 
-edad = input("Digite su edad: ");
+edad = input("Digite su edad: ")
 rango = 0
 nombreRango = ""
 
