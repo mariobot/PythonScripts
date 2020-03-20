@@ -1,11 +1,8 @@
 {
-<<<<<<< HEAD
+
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "python.pythonPath": "C:\\python\\python.exe",
     "window.autoDetectColorScheme": true,
     "window.closeWhenEmpty": true
-=======
-    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe"
->>>>>>> fdb1043fee4ad8dee1ac9328d5e281da8f55986e
 }
