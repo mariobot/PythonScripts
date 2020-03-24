@@ -13,6 +13,15 @@ print(my_list.index(2013))
 print(my_list.reverse())
 print(my_list.pop())
 
+vocals = ["a","e","i","o","u"]
+
+print(vocals)
+
+abc = "abcdefghijklmnñopqrstwxyz"
+
+for letter in abc:
+    print(str(letter).upper())
+
 
 knights = {'gallahad': 'the pure', 'robin': 'the brave'}
 for k, v in knights.items():
