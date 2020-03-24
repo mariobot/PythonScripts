@@ -26,3 +26,7 @@ for letter in abc:
 knights = {'gallahad': 'the pure', 'robin': 'the brave'}
 for k, v in knights.items():
     print(k, v)
+
+my_list2 = ["Mario",37,3.0,"Famous"]
+
+print(my_list2*2)
