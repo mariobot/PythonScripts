@@ -1,3 +1,5 @@
+# Document reference https://docs.python.org/3/tutorial/errors.html
+
 #10 * (1/0)
 #error ZeroDivisionError
 
@@ -55,3 +57,26 @@ finally:
 #with open("myfile.txt") as f:
 #    for line in f:
 #        print(line, end="")
+
+# use the rise keyword to execute and exception
+
+try:
+    raise NameError('HiThere')
+except NameError:
+    print('An exception flew by!')    
+
+# a good example of execution is
+
+def divide(x, y):
+    try:
+        result = x / y
+    except ZeroDivisionError:
+        print("division by zero!")
+    else:
+        print("result is", result)
+    finally:
+        print("executing finally clause")
+
+divide(2, 1)
+divide(2, 0)
+divide("2", "1")
