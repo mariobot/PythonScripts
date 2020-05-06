@@ -2,7 +2,7 @@
 
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "C:\\Desarrollo\\PythonScripts\\env\\Scripts\\python.exe",
+    "python.pythonPath": "env\\Scripts\\python.exe",
     "window.autoDetectColorScheme": true,
     "window.closeWhenEmpty": true
 }
