@@ -9,9 +9,6 @@
 #"2" + 2
 #error TypeError
 
-
-
-
 while True:
     try:
         x = int(input("Write a number: "))

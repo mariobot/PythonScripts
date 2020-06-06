@@ -2,7 +2,7 @@
 
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "env\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe",
     "window.autoDetectColorScheme": true,
     "window.closeWhenEmpty": true
 }
