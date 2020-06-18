@@ -6,7 +6,10 @@ from flask import render_template
 from datetime import datetime
 import re
 
-print("Init flask project")
+# TO INIT THE FLASK PROJECT RUN
+# python -m flask run
+
+print("Execute: python -m flask run")
 
 app = Flask(__name__)
 
