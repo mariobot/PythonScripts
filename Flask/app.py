@@ -6,6 +6,8 @@ from flask import render_template
 from datetime import datetime
 import re
 
+print("Init flask project")
+
 app = Flask(__name__)
 
 @app.route("/")
