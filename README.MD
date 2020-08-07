@@ -4,6 +4,8 @@ Project to hold a didactic code to learn Python.
 
 The Principal modules was collected from the official web page of Python. 
 
+### 2 Interpreter (hello world)
+### 3 Introduction (numbers,strings)
 ### 4 Control Flow (if,for,foreach...)
 ### 5 Data Structure (dictionaries,lists,tuples)
 ### 6 Module (libraries)
@@ -18,4 +20,6 @@ The Principal modules was collected from the official web page of Python.
 ### Flask
 ### HackerRank (Hacker Rank exercises)
 
-[@MaRioBot](https://mariobot.wordpress.com)
+[Wordpress](https://mariobot.wordpress.com)
+[@MaRioBoT](https://www.twitter.com/mariobot)
+[Facebook](https://www.facebook.com/mariobotpage/)
